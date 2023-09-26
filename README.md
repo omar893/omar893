@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I am currently studying Dev-ops software development at Mission Ready HQ
+
+Learning MERN stack and have a basic understanding of Java and C++
+
+Email me: omar@abouelkheirnz.com
+
 <!--
 **omar893/omar893** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
