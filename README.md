@@ -2,7 +2,7 @@
 
 I am currently studying Dev-ops software development at Mission Ready HQ
 
-Learning MERN stack and have a basic understanding of Java and C++
+MERN, Java, C++ and React Native
 
 Email me: omar@abouelkheirnz.com
 
