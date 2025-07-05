@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-I am currently studying Dev-ops software development at Mission Ready HQ
-
-MERN, Java, C++ and React Native
+MERN, Java, C++ and Python
 
 Email me: omar@abouelkheirnz.com
 
